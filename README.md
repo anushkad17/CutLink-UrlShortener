@@ -8,10 +8,9 @@ CutLink is a full-stack URL Shortener web app that lets users create, manage, an
 
 ## 🚀 Live Demo
 
-- 🌐 **Frontend** (Netlify): [https://cutlink.netlify.app](https://cutlink.netlify.app)
-- 🖥 **Backend API** (Render): [https://cutlink-api.onrender.com](https://cutlink-api.onrender.com)
+- 🌐 **Frontend** (Netlify): [https://cutlink.netlify.app](https://cutlinkurl.netlify.app/)
+- 🖥 **Backend API** (Render): [https://cutlink-api.onrender.com](https://url-shortener-sb-1bzo.onrender.com)
 
-> 💤 Render may take a few seconds to wake the backend on the first request.
 
 ---
 
@@ -40,9 +39,18 @@ CutLink is a full-stack URL Shortener web app that lets users create, manage, an
 | Dev Tools   | Postman, Docker (optional), GitHub Actions   |
 
 ---
+## 📦 Deployment
 
-## 📁 Project Structure
-CutLink-UrlShortener/
-├── url-shortener-frontend/ # React frontend
-└── url-shortener-backend/ # Spring Boot backend
+| Service  | Use Case       | Status          |
+|----------|----------------|------------------|
+| Netlify  | Frontend       | ✅ Live          |
+| Render   | Backend        | ✅ Live          |
+| Neon     | PostgreSQL DB  | ✅ Serverless DB |
+| Docker   | Dev & Prod     | ✅ Ready         |
+
+---
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anushka-dhawas-b9300a266/)
+- 💻 [GitHub](https://github.com/anushkad17)
+- 🌐 Portfolio: coming soon!
 
