@@ -49,6 +49,12 @@ CutLink is a full-stack URL Shortener web app that lets users create, manage, an
 | Docker   | Dev & Prod     | ✅ Ready         |
 
 ---
+#Snapshot
+<img width="1890" height="947" alt="Screenshot 2025-08-05 203729" src="https://github.com/user-attachments/assets/b535913f-05eb-48ff-bc72-52c316e30c6c" />
+
+
+
+---
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anushka-dhawas-b9300a266/)
 - 💻 [GitHub](https://github.com/anushkad17)
